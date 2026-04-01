@@ -1,0 +1,2243 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1200, initial-scale=1">
+  <meta property="og:image" content="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/home/favicon.png">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="200">
+  <meta property="og:image:height" content="200">
+  <title>Google SEO Agency in Gurgaon | Rank Higher with BrandStory</title>
+  <meta name="description" content="Top Google SEO agency in Gurgaon helping businesses rank higher on search. BrandStory delivers proven SEO strategies, increased organic traffic, and measurable growth. Partner with experts who understand Google's algorithm and your market.">
+
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&amp;family=Hanken+Grotesk&amp;family=Roboto&amp;display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/menu.css?key=1774357379" rel="stylesheet">
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/global.css?key=1774357379" rel="stylesheet">
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/style.css?key=1774357379" rel="stylesheet">
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/swiper.css?key=1774357379" rel="stylesheet">
+  <link href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/css/aos.css?key=1774357379" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/home/favicon.png">
+
+  <!-- Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PCS4BV"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PCS4BV"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PCS4BV"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PCS4BV"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DDVR73Z12Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-DDVR73Z12Z');
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+      var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PCS4BV');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Verification -->
+  <meta name="msvalidate.01" content="64EEAA85D7640935D5E948C1E01EA76C">
+  <meta name="author" content="Brandstory">
+  <meta name="yandex-verification" content="9ec5c244caece904">
+  <meta name="robots" content="INDEX, FOLLOW">
+  <meta name="google-site-verification" content="N3JWVAy_bEiIsE5TVLcqG-hRpSdbTOJFeFv-aRUTxzY">
+  <meta name="facebook-domain-verification" content="cwzlu4temes9xs1qgpwxe28qsijaev">
+<style id="lpb-fullpage-preview">html{min-height:100vh;}body{min-height:100vh;}</style>
+<script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script><script async="" src="https://analytics.ahrefs.com/analytics.js" data-key="3A6+Ddxj20bTch4d3PH2Ug"></script></head>
+
+<body class="homepage" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="0">
+
+
+<header class="header bg-black">
+		<nav class="navbar navbar-expand-lg navbar-dark">
+			<div class="container-fluid">
+				<a class="navbar-brand d-flex" href="https://brandstory.in/">
+					<img src="https://brandstory.in/digital/assets/images/brand-logo.svg" class="img-fluid" alt="Brandstory">
+				</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ms-lg-auto mb-2 mb-lg-0 align-items-lg-center d-lg-flex d-none">
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Digital Marketing
+							</a>
+							<div class="dropdown-menu vh-100 mt-0 w-100 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown">
+								<div class="container-fluid">
+									<div class="row g-3 g-lg-4">
+										<div class="col-lg-2-5 col-md-4">
+											<div class="menu-box bg-l-orange">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in//assets/images/wp-content/uploads/2024/digital-marketing-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Digital <br>
+																	Marketing </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/" class="dropdown-item dropdown-item-case">Digital
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/creative-agency/" class="dropdown-item dropdown-item-case">Creative
+															Advertising</a></li>
+													<li><a href="https://brandstory.in/email-marketing-services-in-bangalore/" class="dropdown-item dropdown-item-case">Email
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/b2b-marketing-companies-in-bangalore/" class="dropdown-item dropdown-item-case">B2B
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/b2b-lead-generation-companies-in-bangalore/" class="dropdown-item dropdown-item-case">B2B Lead
+															Generation</a></li>
+													<li><a href="https://brandstory.in/orm-online-reputation-management-services-bangalore-india/" class="dropdown-item dropdown-item-case">Online
+															Reputation Management</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-lg-2-5 col-md-4">
+											<div class="menu-box bg-l-green">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in//assets/images/wp-content/uploads/2024/brandPerformance-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Brand <br>
+																	Performance </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/performance-marketing-services-bangalore/" class="dropdown-item">Performance Marketing</a></li>
+													<li><a href="https://brandstory.in/pay-per-click-ppc-services-in-bangalore/" class="dropdown-item">PPC Services</a></li>
+													<li><a href="https://brandstory.in/media-buying-agency-in-bangalore/" class="dropdown-item">Media Buying</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-lg-2-5 col-md-4">
+											<div class="menu-box bg-l-pink">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in//assets/images/wp-content/uploads/2024/socialMedia-marketing-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Social Media <br>
+																	Marketing </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/services/social-media-marketing-agency-bangalore/" class="dropdown-item dropdown-item-case">Social
+															Media
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/facebook-advertising-company-agency-in-bangalore/" class="dropdown-item dropdown-item-case">Facebook
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/linkedin-marketing/" class="dropdown-item dropdown-item-case">Linkedin
+															Marketing</a></li>
+													<li><a href="https://brandstory.in/youtube-marketing-company/" class="dropdown-item dropdown-item-case">Youtube
+															Marketing</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-lg-2-5 col-md-4">
+											<div class="menu-box bg-yellow">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in//assets/images/wp-content/uploads/2024/consulting-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; margin-bottom: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Consulting </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/cmo-on-demand-in-bangalore/" class="dropdown-item dropdown-item-case">CMO On Demand</a>
+													</li>
+													<li><a href="https://brandstory.in/consulting/image-consulting-in-bangalore/" class="dropdown-item dropdown-item-case">Image
+															Consultant</a></li>
+													<li><a href="https://brandstory.in/marketing-consultants-in-bangalore/" class="dropdown-item dropdown-item-case">Marketing
+															Consultant</a></li>
+													<li><a href="https://brandstory.in/database-providers-in-bangalore/" class="dropdown-item dropdown-item-case">Database</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-lg-2-5 col-md-4">
+											<div class="menu-box bg-l-purple">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in//assets/images/wp-content/uploads/2024/seo-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Search Engine <br>
+																	Optimization </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/seo-company-bangalore/" class="dropdown-item dropdown-item-case">SEO
+															Overview</a></li>
+													<li><a href="https://brandstory.in/ecommerce-seo-company/" class="dropdown-item dropdown-item-case">Ecommerce
+															SEO</a></li>
+													<li><a href="https://brandstory.in/seo-audit-services/" class="dropdown-item dropdown-item-case">SEO Audit
+															Services</a></li>
+													<li><a href="https://brandstory.in/google-penalty-recovery/" class="dropdown-item dropdown-item-case">Google
+															Penalty
+															Removal</a></li>
+													<li><a href="https://brandstory.in/local-seo/" class="dropdown-item dropdown-item-case">Local
+															SEO</a>
+													</li>
+													<li><a href="https://brandstory.in/link-building/" class="dropdown-item dropdown-item-case">Link
+															Building</a></li>
+													<li><a href="https://brandstory.in/conversion-rate-optimization-company/" class="dropdown-item dropdown-item-case">Conversion
+															Rate
+															Optimization</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</li>
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Design
+							</a>
+							<div class="dropdown-menu w-100 vh-100 mt-0 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown1">
+								<div class="container-fluid">
+									<div class="row justify-content-lg-center mx-auto mb-0 g-3 g-lg-4">
+										<div class="col-md-6">
+											<div class="menu-box bg-l-blue">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/design-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	UI UX Design </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/ui-design-company-bangalore/" class="dropdown-item dropdown-item-case">UI UX Design</a>
+													</li>
+													<li><a href="https://brandstory.in/uiux/mobile-app/" class="dropdown-item dropdown-item-case">Mobile App UI UX
+															Design</a></li>
+													<li><a href="https://brandstory.in/uiux/web/" class="dropdown-item dropdown-item-case">Web UI UX
+															Design</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="menu-box bg-l-violet">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/brandDesign-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Brand Design </p>
+															</a></div>
+													</li>
+													<li><a href="https://brandstory.in/design/branding/" class="dropdown-item dropdown-item-case pt-3">Brand
+															Identity</a>
+													</li>
+													<li><a href="https://brandstory.in/brand-strategy-and-positioning-company-in-bangalore/" class="dropdown-item dropdown-item-case">Brand Strategy
+															&amp;
+															Consulting</a></li>
+													<li><a href="https://brandstory.in/logo-designers-in-bangalore/" class="dropdown-item dropdown-item-case">Logo Design</a>
+													</li>
+													<li><a href="https://brandstory.in/corporate-branding/" class="dropdown-item dropdown-item-case">Corporate
+															Branding</a>
+													</li>
+													<li><a href="https://brandstory.in/design/marketing-collaterals/" class="dropdown-item dropdown-item-case">Marketing
+															Collateral</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Content
+							</a>
+							<div class="dropdown-menu w-100 vh-100 mt-0 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown2">
+								<div class="container-fluid">
+									<div class="row justify-content-center mx-auto mb-0 g-3 g-lg-4">
+										<div class="col-md-6">
+											<div class="menu-box bg-l-yellow">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/contentMarketing-menu-icon.png" class="me-2">
+																<p class="pt-1" style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; margin-bottom: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Content Marketing </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/content-writing-agency-in-bangalore/" class="dropdown-item">Content Writing</a></li>
+													<li><a href="https://brandstory.in/guest-blog-posting-services-in-bangalore/" class="dropdown-item">Guest Posting</a></li>
+													<li><a href="https://brandstory.in/pr-agency-in-bangalore/" class="dropdown-item">Press Release</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="menu-box bg-l-red">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/enterprise-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Enterprise </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/account-based-marketing/" class="dropdown-item">Account Based Marketing (ABM)</a></li>
+													<li><a href="https://brandstory.in/employer-branding/" class="dropdown-item">Employer Marketing</a></li>
+													<li><a href="https://brandstory.in/product-marketing/" class="dropdown-item">Product Marketing</a></li>
+													<li><a href="https://brandstory.in/product-marketing/" class="dropdown-item">SEO For Enterprise</a></li>
+													<li><a href="https://brandstory.in/inbound-marketing/" class="dropdown-item">Inbound Marketing</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Production
+							</a>
+							<div class="dropdown-menu w-100 vh-100 mt-0 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown4">
+								<div class="container-fluid">
+									<div class="row justify-content-center mx-auto mb-0 g-3 g-lg-4">
+										<div class="col-md-6">
+											<div class="menu-box bg-ll-violet">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/videoProd-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Video Production </p>
+															</a></div>
+													</li>
+													<li><a href="https://brandstory.in/digital/video-production/" class="dropdown-item dropdown-item-case pt-3">Video
+															Production</a></li>
+													<li><a href="https://brandstory.in/videography/corporate-video-production-company-bangalore/" class="dropdown-item dropdown-item-case">Corporate Video</a>
+													</li>
+													<li><a href="https://brandstory.in/podcast-production-agency-in-bangalore/" class="dropdown-item dropdown-item-case">Podcast
+															Production</a>
+													</li>
+													<li><a href="https://brandstory.in/photography/explainer-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">Explainer Video</a>
+													</li>
+													<li><a href="https://brandstory.in/videography/e-learning-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">E Learning
+															Video</a>
+													</li>
+													<li><a href="https://brandstory.in/videography/training-video-production-company-bangalore/" class="dropdown-item dropdown-item-case">Training Video</a>
+													</li>
+													<li><a href="https://brandstory.in/videography/video-marketing-company-in-bangalore/" class="dropdown-item dropdown-item-case">Marketing Video</a>
+													</li>
+													<li><a href="https://brandstory.in/videography/video-editing-services-in-bangalore/" class="dropdown-item dropdown-item-case">Video Editing
+															Services</a></li>
+													<li><a href="https://brandstory.in/videography/animated-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">Animation Video</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="menu-box bg-ll-blue">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/photography-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Photography </p>
+															</a></div>
+													</li>
+													<li class="pt-2" style="line-height: 15px;"><a href="https://brandstory.in/corporate-photography-in-bangalore/" class="dropdown-item">Corporate Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/ecommerce-product-photography/" class="dropdown-item">Ecommerce Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/food-photography/" class="dropdown-item">Food Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/photography/lifestyle-fashion-photographers-bangalore/" class="dropdown-item">Fashion Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/photography/architectural-photography-services-in-bangalore/" class="dropdown-item">Architecural Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/event-photography/" class="dropdown-item">Event Photography</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/photography/drone-photography-bangalore/" class="dropdown-item">Drone Photography</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown5" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Technology
+							</a>
+							<div class="dropdown-menu w-100 vh-100 mt-0 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown5">
+								<div class="container-fluid">
+									<div class="row justify-content-center mx-auto g-3 g-lg-4">
+
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-l-brown">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/devDesign-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Website <br> Development </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/website-development-company-in-bangalore/" class="dropdown-item">Website Development</a></li>
+													<li><a href="https://brandstory.in/services/ecommerce-website-development-company-bangalore/" class="dropdown-item">Ecommerce Website </a></li>
+													<li><a href="https://brandstory.in/software/wordpress-website-development-company-in-bangalore-india/" class="dropdown-item">Wordpress Website</a></li>
+													<li><a href="https://brandstory.in/software/magento-web-development-company-in-bangalore-india/" class="dropdown-item">Magento Website</a></li>
+													<li><a href="https://brandstory.in/website-maintenance-bangalore/" class="dropdown-item">Website Maintenance Service</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-green">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/mobileApp-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Mobile App<br> Development </p>
+															</a></div>
+													</li>
+													<li class="pt-2" style="line-height: 15px;"><a href="https://brandstory.in/mobile-app-development-company-bangalore/" class="dropdown-item">Mobile App Development</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/software/ios-app-development-services-in-bangalore/" class="dropdown-item">iOS App Development</a></li>
+													<li style="line-height: 20px;"><a href="https://brandstory.in/software/cross-platform-app-development-company-in-bangalore/" class="dropdown-item">Cross Platform Mobile App</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/software/hybrid-mobile-app-development-services-in-bangalore/" class="dropdown-item">Hybrid Mobile App</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/software/flutter-app-development-services-in-bangalore/" class="dropdown-item">Flutter App Development</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/software/native-app-development-services-in-bangalore/" class="dropdown-item">Native App Development</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/software/android-app-development-company-in-bangalore/" class="dropdown-item">Android App Development</a></li>
+													<li style="line-height: 20px;"><a href="https://brandstory.in/app-store-optimization-services/" class="dropdown-item">App Store Optimization</a></li>
+													<li style="line-height: 20px;"><a href="https://brandstory.in/software/mobile-app-maintenance-services-in-india/" class="dropdown-item">Mobile App Maintenance</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-pink">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/technologies-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Technologies </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/angularjs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case pt-3">AngularJS
+															Development</a></li>
+													<li><a href="https://brandstory.in/django-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Django
+															Development</a>
+													</li>
+													<li><a href="https://brandstory.in/java-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Java
+															Development</a>
+													</li>
+													<li><a href="https://brandstory.in/nodejs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">NodeJS
+															Development</a>
+													</li>
+													<li><a href="https://brandstory.in/python-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Python
+															Development</a>
+													</li>
+													<li><a href="https://brandstory.in/reactjs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">ReactJS
+															Development</a>
+													</li>
+													<li><a href="https://brandstory.in/rest-api-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Rest API
+															Development</a></li>
+													<li><a href="https://brandstory.in/vuejs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">VueJS
+															Development</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-purple">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/innovative-technologies-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Innovative<br> Technologies </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/artificial-intelligence-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Artificial
+															Intelligence</a></li>
+													<li><a href="https://brandstory.in/block-chain-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Blockchain</a></li>
+													<li><a href="https://brandstory.in/iot-application-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">IoT Application</a>
+													</li>
+													<li><a href="https://brandstory.in/robotic-process-automation-services-in-bangalore/" class="dropdown-item dropdown-item-case">Robotic Process
+															Automation</a></li>
+												</ul>
+											</div>
+										</div>
+										<!-- <div class="col-lg-1 d-lg-flex d-none"></div>
+										<div class="col-lg-1 d-lg-flex d-none"></div> -->
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-blue">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/itConsulting-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Development <br> And Design </p>
+															</a></div>
+													</li>
+													<li><a href="https://brandstory.in/full-stack-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Full Stack</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-blue">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/cloudServices-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Cloud Services </p>
+															</a></div>
+													</li>
+													<li class="pt-2" style="line-height: 15px;"><a href="https://brandstory.in/cloud-consulting-company-in-bangalore/" class="dropdown-item">Cloud
+															Consulting</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/aws-company-in-bangalore/" class="dropdown-item">AWS Managed
+															Services</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/microsoft-azure-solutions-company-in-bangalore/" class="dropdown-item">Azure Managed Services</a></li>
+													<li style="line-height: 15px;"><a href="https://brandstory.in/google-cloud-services-company-in-bangalore/" class="dropdown-item">GCP
+															Managed Services</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-l-cream">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/custon-solutions-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Custom <br> Solution </p>
+															</a></div>
+													</li>
+													<li class="pt-2"><a href="https://brandstory.in/custom-web-application-development-company-in-bangalore/" class="dropdown-item">Custom Web App</a></li>
+													<li><a href="https://brandstory.in/enterprise-web-app-development-company-in-bangalore/" class="dropdown-item">Enterprise Web App</a></li>
+													<li><a href="https://brandstory.in/web-app-development-company-in-bangalore/" class="dropdown-item">Website
+															And App Design</a></li>
+												</ul>
+											</div>
+										</div>
+										<div class="col-md-4 col-lg-3">
+											<div class="menu-box bg-d-yellow">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.blr1.cdn.digitaloceanspaces.com/2024/custon-solutions-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 0.5rem; margin-bottom: 0.3rem; color: black; font-weight: 600; text-transform: initial;">
+																	Data Consulting </p>
+															</a></div>
+													</li>
+													<li><a href="https://brandstory.in/big-data-company-in-bangalore/" class="dropdown-item pt-2">Big Data
+															Consulting</a></li>
+													<li><a href="https://brandstory.in/data-science-consulting-company-in-bangalore/" class="dropdown-item">Data Science Consulting</a></li>
+												</ul>
+											</div>
+										</div>
+										<!-- <div class="col-lg-1 d-lg-flex d-none"></div> -->
+
+									</div>
+								</div>
+						</div></li>
+						<li class="nav-item dropdown mega-menu position-static">
+							<a class="nav-link dropdown-toggle" href="#" id="projectsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Resources
+							</a>
+							<div class="dropdown-menu w-100 vh-100 mt-0 shadow border-outline-success px-lg-5 py-lg-3" aria-labelledby="projectsDropdown">
+								<div class="container-fluid">
+									<div class="row justify-content-lg-end pe-lg-8">
+										<div class="col-md-4 col-lg-2-5">
+											<div class="menu-box bg-ll-green">
+												<ul>
+													<li>
+														<div><a href="#" class="dropdown-item d-flex align-items-center"><img src="https://brandstory.blr1.cdn.digitaloceanspaces.com/2024/data-consulting-menu-icon.png" class="me-2">
+																<p style="font-size: 0.9rem; line-height: normal; margin-top: 1rem; color: black; font-weight: 600; text-transform: initial;">
+																	Resources </p>
+															</a></div>
+													</li>
+													<li><a href="https://brandstory.in/our-portfolio/" class="dropdown-item dropdown-item-case pt-3">Portfolio</a>
+													</li>
+													<li><a href="https://brandstory.in/resources/casestudies/" class="dropdown-item dropdown-item-case">Case Study</a></li>
+													<li><a href="https://brandstory.in/blogs/" class="dropdown-item dropdown-item-case">Blogs</a></li>
+													<li><a href="https://brandstory.in/careers/" class="dropdown-item dropdown-item-case">Careers</a></li>
+												</ul>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link btn-light btn no-hover cus-web-head-btn" href="https://brandstory.in/contact-us/">GET
+								QUOTE</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link no-hover" href="tel:+919008504821">+91 9008504821</a>
+						</li>
+					</ul>
+
+
+
+
+					<!-- mobile -->
+
+					<ul class="navbar-nav me-auto justify-content-end w-100 mb-2 mb-lg-0 d-lg-none">
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Digital Marketing <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> Digital Marketing <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/" class="dropdown-item dropdown-item-case">Digital Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/creative-agency/" class="dropdown-item dropdown-item-case">Creative Advertising</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/email-marketing-services-in-bangalore/" class="dropdown-item dropdown-item-case">Email Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/b2b-marketing-companies-in-bangalore/" class="dropdown-item dropdown-item-case">B2B Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/b2b-lead-generation-companies-in-bangalore/" class="dropdown-item dropdown-item-case">B2B Lead Generation</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/orm-online-reputation-management-services-bangalore-india/" class="dropdown-item dropdown-item-case">Online Reputation
+												Management</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Brand Performance <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/performance-marketing-services-bangalore/" class="dropdown-item">Performance Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/pay-per-click-ppc-services-in-bangalore/" class="dropdown-item">PPC Services</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/media-buying-agency-in-bangalore/" class="dropdown-item">Media Buying</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Social Media Marketing <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/services/social-media-marketing-agency-bangalore/" class="dropdown-item dropdown-item-case">Social Media Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/facebook-advertising-company-agency-in-bangalore/" class="dropdown-item dropdown-item-case">Facebook Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/linkedin-marketing/" class="dropdown-item dropdown-item-case">Linkedin Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/youtube-marketing-company/" class="dropdown-item dropdown-item-case">Youtube Marketing</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Consulting <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/cmo-on-demand-in-bangalore/" class="dropdown-item dropdown-item-case">CMO On Demand</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/consulting/image-consulting-in-bangalore/" class="dropdown-item dropdown-item-case">Image Consultant</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/marketing-consultants-in-bangalore/" class="dropdown-item dropdown-item-case">Marketing Consultant</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/database-providers-in-bangalore/" class="dropdown-item dropdown-item-case">Database</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Search Engine Optimization <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/seo-company-bangalore/" class="dropdown-item dropdown-item-case">SEO Overview</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/ecommerce-seo-company/" class="dropdown-item dropdown-item-case">Ecommerce SEO</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/seo-audit-services/" class="dropdown-item dropdown-item-case">SEO Audit Services</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/google-penalty-recovery/" class="dropdown-item dropdown-item-case">Google Penalty Removal</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/local-seo/" class="dropdown-item dropdown-item-case">Local SEO</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/link-building/" class="dropdown-item dropdown-item-case">Link Building</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/conversion-rate-optimization-company/" class="dropdown-item dropdown-item-case">Conversion Rate
+												Optimization</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Design <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> UI UX Design <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/ui-design-company-bangalore/" class="dropdown-item dropdown-item-case">UI UX Design</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/uiux/mobile-app/" class="dropdown-item dropdown-item-case">Mobile App UI UX Design</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/uiux/web/" class="dropdown-item dropdown-item-case">Web UI UX Design</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Brand Design <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li>
+											<a href="https://brandstory.in/design/branding/" class="dropdown-item dropdown-item-case pt-3">Brand Identity</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/brand-strategy-and-positioning-company-in-bangalore/" class="dropdown-item dropdown-item-case">Brand Strategy &amp;
+												Consulting</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/logo-designers-in-bangalore/" class="dropdown-item dropdown-item-case">Logo Design</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/corporate-branding/" class="dropdown-item dropdown-item-case">Corporate Branding</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/design/marketing-collaterals/" class="dropdown-item dropdown-item-case">Marketing Collateral</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Content <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> Content Marketing <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/content-writing-agency-in-bangalore/" class="dropdown-item">Content Writing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/guest-blog-posting-services-in-bangalore/" class="dropdown-item">Guest Posting</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/pr-agency-in-bangalore/" class="dropdown-item">Press Release</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Enterprise <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/account-based-marketing/" class="dropdown-item">Account Based Marketing (ABM)</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/employer-branding/" class="dropdown-item">Employer Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/product-marketing/" class="dropdown-item">Product Marketing</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/product-marketing/" class="dropdown-item">SEO
+												For Enterprise</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/inbound-marketing/" class="dropdown-item">Inbound Marketing</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Production <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> Video Production <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li>
+											<a href="https://brandstory.in/digital/video-production/" class="dropdown-item dropdown-item-case pt-3">Video Production</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/corporate-video-production-company-bangalore/" class="dropdown-item dropdown-item-case">Corporate Video</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/podcast-production-agency-in-bangalore/" class="dropdown-item dropdown-item-case">Podcast Production</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/photography/explainer-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">Explainer Video</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/e-learning-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">E Learning Video</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/training-video-production-company-bangalore/" class="dropdown-item dropdown-item-case">Training Video</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/video-marketing-company-in-bangalore/" class="dropdown-item dropdown-item-case">Marketing Video</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/video-editing-services-in-bangalore/" class="dropdown-item dropdown-item-case">Video Editing Services</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/videography/animated-video-production-company-in-bangalore/" class="dropdown-item dropdown-item-case">Animation Video</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Photography <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2">
+											<a href="https://brandstory.in/corporate-photography-in-bangalore/" class="dropdown-item">Corporate Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/ecommerce-product-photography/" class="dropdown-item">Ecommerce Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/food-photography/" class="dropdown-item">Food
+												Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/photography/lifestyle-fashion-photographers-bangalore/" class="dropdown-item">Fashion Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/photography/architectural-photography-services-in-bangalore/" class="dropdown-item">Architecural Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/event-photography/" class="dropdown-item">Event Photography</a>
+										</li>
+										<li>
+											<a href="https://brandstory.in/photography/drone-photography-bangalore/" class="dropdown-item">Drone Photography</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+
+
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Technology <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> Website Development <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/website-development-company-in-bangalore/" class="dropdown-item">Website Development</a></li>
+										<li><a href="https://brandstory.in/services/ecommerce-website-development-company-bangalore/" class="dropdown-item">Ecommerce Website </a></li>
+										<li><a href="https://brandstory.in/software/wordpress-website-development-company-in-bangalore-india/" class="dropdown-item">Wordpress Website</a></li>
+										<li><a href="https://brandstory.in/software/magento-web-development-company-in-bangalore-india/" class="dropdown-item">Magento Website</a></li>
+										<li><a href="https://brandstory.in/website-maintenance-bangalore/" class="dropdown-item">Website Maintenance Service</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Mobile App Development <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/mobile-app-development-company-bangalore/" class="dropdown-item">Mobile App Development</a></li>
+										<li><a href="https://brandstory.in/software/ios-app-development-services-in-bangalore/" class="dropdown-item">iOS App Development</a></li>
+										<li style="line-height: 20px;"><a href="https://brandstory.in/software/cross-platform-app-development-company-in-bangalore/" class="dropdown-item">Cross Platform Mobile App</a></li>
+										<li><a href="https://brandstory.in/software/hybrid-mobile-app-development-services-in-bangalore/" class="dropdown-item">Hybrid Mobile App</a></li>
+										<li><a href="https://brandstory.in/software/flutter-app-development-services-in-bangalore/" class="dropdown-item">Flutter App Development</a></li>
+										<li><a href="https://brandstory.in/software/native-app-development-services-in-bangalore/" class="dropdown-item">Native App Development</a></li>
+										<li><a href="https://brandstory.in/software/android-app-development-company-in-bangalore/" class="dropdown-item">Android App Development</a></li>
+										<li style="line-height: 20px;"><a href="https://brandstory.in/app-store-optimization-services/" class="dropdown-item">App Store Optimization</a></li>
+										<li style="line-height: 20px;"><a href="https://brandstory.in/software/mobile-app-maintenance-services-in-india/" class="dropdown-item">Mobile App Maintenance</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Technologies <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/angularjs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case pt-3">AngularJS
+												Development</a></li>
+										<li><a href="https://brandstory.in/django-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Django
+												Development</a>
+										</li>
+										<li><a href="https://brandstory.in/java-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Java
+												Development</a>
+										</li>
+										<li><a href="https://brandstory.in/nodejs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">NodeJS
+												Development</a>
+										</li>
+										<li><a href="https://brandstory.in/python-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Python
+												Development</a>
+										</li>
+										<li><a href="https://brandstory.in/reactjs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">ReactJS
+												Development</a>
+										</li>
+										<li><a href="https://brandstory.in/rest-api-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Rest API
+												Development</a></li>
+										<li><a href="https://brandstory.in/vuejs-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">VueJS
+												Development</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Innovative Technologies <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/artificial-intelligence-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Artificial
+												Intelligence</a></li>
+										<li><a href="https://brandstory.in/block-chain-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Blockchain</a></li>
+										<li><a href="https://brandstory.in/iot-application-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">IoT Application</a>
+										</li>
+										<li><a href="https://brandstory.in/robotic-process-automation-services-in-bangalore/" class="dropdown-item dropdown-item-case">Robotic Process
+												Automation</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Development And Design <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li><a href="https://brandstory.in/full-stack-development-company-in-bangalore/" class="dropdown-item dropdown-item-case">Full Stack</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Cloud Services <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/cloud-consulting-company-in-bangalore/" class="dropdown-item">Cloud
+												Consulting</a></li>
+										<li><a href="https://brandstory.in/aws-company-in-bangalore/" class="dropdown-item">AWS Managed
+												Services</a></li>
+										<li><a href="https://brandstory.in/microsoft-azure-solutions-company-in-bangalore/" class="dropdown-item">Azure Managed Services</a></li>
+										<li><a href="https://brandstory.in/google-cloud-services-company-in-bangalore/" class="dropdown-item">GCP
+												Managed Services</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Custom Solution <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li class="pt-2"><a href="https://brandstory.in/custom-web-application-development-company-in-bangalore/" class="dropdown-item">Custom Web App</a></li>
+										<li><a href="https://brandstory.in/enterprise-web-app-development-company-in-bangalore/" class="dropdown-item">Enterprise Web App</a></li>
+										<li><a href="https://brandstory.in/web-app-development-company-in-bangalore/" class="dropdown-item">Website
+												And App Design</a></li>
+									</ul>
+								</li>
+								<li>
+									<a class="dropdown-item" href="#"> Data Consulting <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li><a href="https://brandstory.in/big-data-company-in-bangalore/" class="dropdown-item pt-2">Big Data
+												Consulting</a></li>
+										<li><a href="https://brandstory.in/data-science-consulting-company-in-bangalore/" class="dropdown-item">Data Science Consulting</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle hover-list" href="#" data-bs-toggle="dropdown">Resources <i class="bi bi-chevron-down arrow-class"></i>
+							</a>
+							<ul class="dropdown-menu">
+								<li>
+									<a class="dropdown-item" href="#"> Resources <i class="bi bi-chevron-down arrow-class"></i>
+									</a>
+									<ul class="submenu dropdown-menu">
+										<li><a href="https://brandstory.in/our-portfolio/" class="dropdown-item dropdown-item-case pt-3">Portfolio</a>
+										</li>
+										<li><a href="https://brandstory.in/resources/casestudies/" class="dropdown-item dropdown-item-case">Case Study</a></li>
+										<li><a href="https://brandstory.in/blogs/" class="dropdown-item dropdown-item-case">Blogs</a></li>
+										<li><a href="https://brandstory.in/careers/" class="dropdown-item dropdown-item-case">Careers</a></li>
+									</ul>
+								</li>
+
+							</ul>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link btn-light btn no-hover cus-web-head-btn" href="https://brandstory.in/contact-us/">GET
+								QUOTE</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link no-hover" href="tel:+919008504821">+91 9008504821</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header><!-- Include Header-->
+
+<section class="home-banner bg-black mt-100">
+ <div class="container-fluid p-0">
+ <div class="bnr-slide01 bg-bnr h-600 d-flex align-items-center">
+      <div class="container">
+       <div class="row">
+        <div class="col-md-8 text-white">
+         <h1 class="mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Google SEO Agency in Gurgaon – Rank Higher, Grow Faster</h1>
+         
+         <p></p>
+         <div class="smm-uae-btn w-fit aos-init aos-animate" data-aos="fade-up" data-aos-duration="1400">
+          <a href="https://brandstory.in/contact-us/" class="fs-22 cnt-btn fw-700 text-white d-flex align-items-center gap-2">Book Your Free Google SEO Consultation</a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+ </div>
+</section>
+
+<section class="ai-search bg-bnr sp-100">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<p class="text-white text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Organic search is evolving rapidly in Gurgaon. From Google's AI Overviews to voice assistants and generative engines, customers now discover businesses through smarter, conversational search. Stay visible where it matters. As a leading<a href="https://brandstory.in/seo-agency-in-gurgaon/" style="text-decoration: underline; color: rgb(37, 99, 235); font-size: inherit; font-family: inherit; font-weight: inherit; line-height: inherit; letter-spacing: inherit;">Google SEO agency in Gurgaon</a>&nbsp;, we craft data-driven organic strategies that elevate your rankings and strengthen your digital authority. Our approach ensures your business appears in the search results that drive real traffic, leads, and long-term growth.</p>
+<p class="text-white text-center mb-0 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1300">Traditional keyword stuffing won't work anymore. Ranking on page one doesn't guarantee clicks if your content lacks relevance, authority, or user intent alignment. Smart businesses in Gurgaon are investing in Google SEO that builds trust, answers real questions, and earns sustainable visibility. With expert SEO services, we position your brand to dominate search results—naturally, ethically, and effectively.</p>
+</div>
+</div>
+</div></section>
+
+<section class="sp-70">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-12">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/robotic.png" class="img-fluid mb-4 aos-init aos-animate" alt="" data-aos="fade-up" data-aos-duration="1500">
+        <h2 class="text-white mb-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1600">Trusted by 500+ brands across India</h2>
+        <p class="text-white mb-4 mb-md-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1700">We deliver measurable results in Google rankings, sustainable traffic growth, and ROI-driven SEO. From local startups to national enterprises, we serve Gurgaon's competitive and fast-growing digital landscape with proven strategies.</p>        
+      </div>
+      <div class="col-md-12 col-lg-3">
+        <!-- Swiper 01 -->
+  <div class="swiper clients-swiper swiper-vertical aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+    <div class="swiper-wrapper" id="swiper-wrapper-99ea30376197dc17" aria-live="off" style="transition-duration: 4000ms; transform: translate3d(0px, 0px, 0px);"><div class="swiper-slide" data-swiper-slide-index="7" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-11.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="8" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-12.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="9" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-13.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="10" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-01.svg" class="img-fluid active" alt="">
+      </div><div class="swiper-slide" data-swiper-slide-index="11" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-02.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="12" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-03.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="0" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-04.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="1" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-05.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="2" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-06.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="3" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-07.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="4" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-08.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="5" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-09.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="6" style="height: 135px; margin-bottom: 20px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/client-10.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+  <span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span></div>
+      </div>
+      <div class="col-md-12 col-lg-3">
+       <!-- Swiper 02 -->
+  <div class="swiper clients-swiper02 pt-5 swiper-vertical aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+    <div class="swiper-wrapper" id="swiper-wrapper-d5f838512934111f" aria-live="off" style="transition-duration: 4000ms; transform: translate3d(0px, -843px, 0px);">
+      
+      
+      
+      <div class="swiper-slide" data-swiper-slide-index="0" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo04.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="1" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo05.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="2" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo06.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="3" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo07.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="4" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo08.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="5" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo09.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="6" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo10.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="7" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo11.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="8" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo12.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+      <div class="swiper-slide" data-swiper-slide-index="9" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo13.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div>
+    <div class="swiper-slide" data-swiper-slide-index="10" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo01.svg" class="img-fluid active" alt="">
+      </div><div class="swiper-slide" data-swiper-slide-index="11" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo02.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div><div class="swiper-slide" data-swiper-slide-index="12" style="height: 130.5px; margin-bottom: 10px;">
+        <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/slider-logo03.svg" class="img-fluid active" alt="Accordion Image 1">
+      </div></div>
+  <span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Start: Reviewed by Verified Experts-->
+<section class="meet-bsd spb-100 cus-overflow-x">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-white text-center mb-5 aos-init aos-animate" data-aos="fade-up">Reviewed by Verified Experts</h2>
+
+        <div class="d-flex flex-wrap justify-content-center text-center">
+          <div class="p-2 custom-col">
+            <div class="review-card bg-review aos-init aos-animate" data-aos="fade-up">
+              <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/clutch.svg" class="img-fluid cus-w-100" alt="Clutch">
+            </div>
+          </div>
+          <div class="p-2 custom-col">
+            <div class="review-card bg-review-02 aos-init aos-animate" data-aos="fade-up">
+              <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/g2.svg" class="img-fluid cus-w-50" alt="Google">
+            </div>
+          </div>          
+          <div class="p-2 custom-col">
+            <div class="review-card bg-review-trustpilot aos-init aos-animate" data-aos="fade-up">
+              <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/trust-pilot.svg" class="img-fluid cus-w-100" alt="Ambitation Box">
+            </div>
+          </div>
+          <div class="p-2 custom-col">
+            <div class="review-card bg-review-goodfirms aos-init aos-animate" data-aos="fade-up">
+              <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/good.svg" class="img-fluid cus-w-150 o" alt="Just Dial">
+            </div>
+          </div>
+          <div class="p-2 custom-col">
+            <div class="review-card aos-init aos-animate" data-aos="fade-up">
+              <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/google-logo.svg" class="img-fluid cus-w-150" alt="Google">
+            </div>
+          </div> 
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!--End: Reviewed by Verified Experts-->
+
+<!-- Start : Our Track Record -->
+<section class="track-record-section bg-bnr sp-100">
+  <div class="container">
+    <h2 class="text-center mb-5 text-white fw-bold aos-init" data-aos="fade-up">Our Track Record</h2>
+    <div class="row g-4">
+  <div class="col-md-3 aos-init" data-aos="fade-up">
+    <div class="custom-card first-card text-center px-4">
+      <h5>Years of Experience</h5>
+      <p>Over 12 years of Google SEO expertise in Gurgaon.</p>
+    </div>
+  </div>
+  <div class="col-md-3 aos-init" data-aos="fade-up">
+    <div class="custom-card text-center px-4">
+      <h5>Expert Team</h5>
+      <p>120+ certified SEO and content specialists</p>
+    </div>
+  </div>
+  <div class="col-md-3 aos-init" data-aos="fade-up">
+    <div class="custom-card text-center px-4">
+      <h5>Client Success</h5>
+      <p>500+ clients with proven organic growth results.</p>
+    </div>
+  </div>
+  <div class="col-md-3 aos-init" data-aos="fade-up">
+    <div class="custom-card text-center px-4">
+      <h5>Industry Reach</h5>
+      <p>Serving 30+ industries across all sectors.</p>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
+<!-- End: Our Track Record -->
+
+<!--Start: Key Benifits section-->
+
+<section class="key-benefits bg-bnr sp-100 cus-overflow-x">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h2 class="text-white text-center mb-5 aos-init" data-aos="fade-up">Key Benefits of Google SEO for Business Growth</h2>
+<div class="row g-3">
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-left">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-01.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Dominate Google Search Results</h3>
+  <p class="text-white fs-18 mb-0">Increase your organic visibility across Google search results with white-hat SEO strategies that drive qualified traffic to your Gurgaon business sustainably.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-up">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-02.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Drive Qualified Leads from Google</h3>
+  <p class="text-white fs-18 mb-0">Strengthen your search presence with content optimized for user intent, earning clicks, conversions, and long-term authority without paid ads or shortcuts.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-right">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-03.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Achieve First-Page Google Rankings</h3>
+  <p class="text-white fs-18 mb-0">Build a trusted digital footprint with ethical link building, on-page optimization, and brand authority that resonates with Gurgaon audiences.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-left">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-04.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Build Authority &amp; Online Visibility</h3>
+  <p class="text-white fs-18 mb-0">Reach customers across Google, Bing, and local search platforms with geo-targeted SEO strategies designed for maximum visibility and local relevance in Gurgaon and surrounding areas.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-down">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-05.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Lower Customer Acquisition Costs</h3>
+  <p class="text-white fs-18 mb-0">Optimize for voice search and mobile queries, connecting naturally with users searching via smartphones, smart speakers, and conversational search tools.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="feature-card aos-init" data-aos="fade-right">
+  <span class="circle-feature-box"></span>
+  <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/key-06.svg" class="img-fluid mb-4" alt="">
+  <h3 class="text-white mb-3">Maximize ROI with Proven Strategies</h3>
+  <p class="text-white fs-18 mb-0">Create high-quality, keyword-rich content designed to rank consistently, attract backlinks, and deliver sustainable organic traffic growth over time.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></section>
+<!--End: Your Website section-->
+
+<!-- Start : Generative Engine  -->
+
+<section class="sp-100 gen-engine-main">
+ <div class="container">
+  <div class="row">
+   <div class="col-md-6 aos-init" data-aos="fade-up">
+    <div class="gen-engine">
+     <h2 class="text-white mb-4">Our Google SEO Services for Businesses in Gurgaon &amp; NCR</h2>
+     <p class="text-white fs-18 mb-5 mb-md-0">Stay ahead in Google search. Our SEO services position your Gurgaon business at the top of search results with ethical, data-driven strategies—keyword research, technical optimization, content marketing, and authoritative link building that deliver results.</p>
+    </div>
+   </div>
+   <div class="col-md-6">
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Technical SEO &amp; Site Optimization</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Optimize for featured snippets and position zero rankings on Google. We align your content with high-intent queries using structured data, clear formatting, and intent-driven keyword targeting for maximum organic visibility.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Strategic Link Building &amp; Outreach</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Develop SEO-optimized long-form content that ranks and converts. Boost visibility with keyword-rich blog posts, service pages, guides, and FAQs designed to attract organic traffic, answer user queries, and build topical authority in Gurgaon markets.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Keyword Research &amp; Content Planning</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Build topic clusters around your core services and products. Strengthen site architecture, internal linking, and topical relevance using pillar pages, supporting content, and semantic keyword strategies that improve crawlability and rankings.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">On-Page SEO &amp; Content Optimization</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Structure content to win featured snippets and rich results. Use bullet points, tables, definitions, and Q&amp;A formats optimized for Google's SERP features, voice search, and quick-answer boxes that drive organic clicks.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Local SEO &amp; Google Business Profile</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Improve brand authority and trust signals in organic search. Align your NAP data, Google Business Profile, local citations, and website content for consistent, credible visibility across Gurgaon and national search results.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Structured Data &amp; Schema Markup</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Implement schema markup for FAQs, services, products, and local business data. Help Google understand, index, and feature your content with precision for better rankings and enhanced SERP visibility.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Digital PR &amp; Authority Building</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Earn high-authority backlinks from trusted media outlets, industry blogs, and niche publications. Strengthen domain authority through ethical link building, digital PR, and strategic outreach campaigns.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Competitor Analysis &amp; Gap Strategy</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Conduct in-depth keyword research and competitor analysis. Identify high-value search terms, content gaps, and ranking opportunities to inform your Google SEO strategy and maximize ROI across Gurgaon markets.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">SEO Performance Auditing &amp; Reporting</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Track your organic rankings, traffic, and conversions with detailed analytics. Includes keyword performance reports, SERP visibility tracking, and ROI measurement across all organic search channels and campaigns.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">E-commerce &amp; Product SEO</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Create content optimized for voice search and mobile-first indexing. Use natural language, question-based keywords, and conversational syntax tailored for spoken queries and on-the-go searches.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Mobile &amp; Voice Search Optimization</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Monitor competitors' organic search strategies. Identify their top-ranking keywords, backlink sources, content gaps, and SEO tactics to uncover opportunities and stay ahead in Gurgaon's competitive search landscape.</p>
+    </div>
+    <div class="gen-en-card text-center px-4 mb-3 aos-init" data-aos="fade-up">
+     <h4 class="card-title text-start fw-bold fs-24 text-white mb-3">Content Strategy &amp; Editorial SEO</h4>
+     <p class="card-text text-start text-white fs-18 mb-0">Make all content formats search-friendly—images, videos, infographics, and PDFs. Use alt text, descriptive file names, transcripts, and metadata to ensure comprehensive indexing and organic discoverability.</p>
+    </div>
+   </div>
+  </div>
+ </div>
+</section><script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Brandstory Solutions Private Limited",
+  "url": "https://brandstory.in/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://brandstory.in/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script><script type="text/javascript" id="" charset="">var ahrefs_analytics_script=document.createElement("script");ahrefs_analytics_script.async=!0;ahrefs_analytics_script.src="https://analytics.ahrefs.com/analytics.js";ahrefs_analytics_script.setAttribute("data-key","3A6+Ddxj20bTch4d3PH2Ug");document.getElementsByTagName("head")[0].appendChild(ahrefs_analytics_script);</script><script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Brandstory Solutions Private Limited",
+      "url" : "https://brandstory.in/"
+    }
+  </script>
+
+<!-- End: Generative Engine  -->
+<!-- Start : Our 5-Stage GEO Process for AI-First Search Success -->
+
+<section class="spb-70">
+ <div class="container">
+  <h2 class="text-white mb-4 text-center aos-init" data-aos="fade-up">Our 5-Stage Google SEO Process for Proven Results</h2>
+  <p class="text-white fs-18 text-center mb-5 aos-init" data-aos="fade-up">We simplify Google SEO. Our approach is designed to eliminate complexity, bring clarity, and deliver measurable rankings and traffic growth using proven strategies, transparent reporting, and deep expertise at every stage of your journey.</p>
+  <div class="ai-first p-0 aos-init" data-aos="fade-up">
+   <div class="row">
+    <div class="col-md-4 d-flex">
+     <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-robot.png" class="w-cus-50 w-100 mb-0" alt="">
+    </div>
+    <div class="col-md-8 py-4">
+
+      <div class="process-sec mb-3 me-4 cus-dott aos-init" data-aos="fade-up">
+      <div class="row align-items-center inner-p-sec text-white p-2 mb-3">
+       <div class="col-auto">
+        <span class="p-2 fs-58">01</span>
+       </div>
+       <div class="col">
+        <h5 class="fw-bold mb-1 fs-24">Audit</h5>
+        <p class="fs-18 mb-2 fw-700">Understand your current rankings</p>
+        <p class="mb-0 fs-16">We analyze how Google perceives your Gurgaon business, website health, keyword rankings, and competitive position—so we begin with data-driven insights and strategic intelligence, not assumptions or generic tactics.</p>
+       </div>
+      </div>      
+     </div>
+
+     <div class="process-sec mb-3 me-4 cus-dott aos-init" data-aos="fade-up">
+      <div class="row align-items-center inner-p-sec text-white p-2 mb-3">
+       <div class="col-auto">
+        <span class="p-2 fs-58">02</span>
+       </div>
+       <div class="col">
+        <h5 class="fw-bold mb-1 fs-24">Strategy &amp; Keyword Research</h5>
+        <p class="fs-18 mb-2 fw-700">Powered by search intent and Google ranking precision</p>
+        <p class="mb-0 fs-16">We build data-driven SEO strategies rooted in search behavior, user intent, and Gurgaon's competitive dynamics—ensuring every page boosts visibility, attracts traffic, and delivers measurable growth.</p>
+       </div>
+      </div>      
+     </div>
+
+    <div class="process-sec mb-3 me-4 cus-dott aos-init" data-aos="fade-up">
+      <div class="row align-items-center inner-p-sec text-white p-2 mb-3">
+       <div class="col-auto">
+        <span class="p-2 fs-58">03</span>
+       </div>
+       <div class="col">
+        <h5 class="fw-bold mb-1 fs-24">On-Page Optimization &amp; Content</h5>
+        <p class="fs-18 mb-2 fw-700">Scale smarter. Rank on Google.</p>
+        <p class="mb-0 fs-16">We deploy programmatic SEO systems that create hundreds of optimized, location-aware pages—helping your Gurgaon business dominate long-tail keywords, local searches, and high-intent Google queries at scale.</p>
+       </div>
+      </div>      
+     </div>
+
+    <div class="process-sec mb-3 me-4 cus-dott aos-init" data-aos="fade-up">
+      <div class="row align-items-center inner-p-sec text-white p-2 mb-3">
+       <div class="col-auto">
+        <span class="p-2 fs-58">04</span>
+       </div>
+       <div class="col">
+        <h5 class="fw-bold mb-1 fs-24">Authority Building &amp; Link Outreach</h5>
+        <p class="fs-18 mb-2 fw-700">Automation fuels organic rankings</p>
+        <p class="mb-0 fs-16">We engineer scalable SEO frameworks with dynamic schema, internal linking, and crawl-optimized templates—so Google indexes your Gurgaon business efficiently across thousands of organic pages.</p>
+       </div>
+      </div>      
+     </div>
+
+     <div class="process-sec mb-3 me-4 cus-dott aos-init" data-aos="fade-up">
+      <div class="row align-items-center inner-p-sec text-white p-2 mb-3">
+       <div class="col-auto">
+        <span class="p-2 fs-58">05</span>
+       </div>
+       <div class="col">
+        <h5 class="fw-bold mb-1 fs-24">Monitoring, Reporting &amp; Refinement</h5>
+        <p class="fs-18 mb-2 fw-700">Rankings tracked in real-time</p>
+        <p class="mb-0 fs-16">We monitor Google keyword rankings, indexation rates, and organic traffic growth across your programmatic pages. Continuous insights ensure your Gurgaon SEO strategy evolves and improves monthly.</p>
+       </div>
+      </div>      
+     </div>
+
+    </div>
+   </div>
+  </div>
+ </div>
+</section>
+<!-- End: Our 5-Stage GEO Process for AI-First Search Success -->
+<!-- Start : Why Partner -->
+<section class="spb-100 spt-70">
+ <div class="container">
+  <div class="why-prt-card aos-init" data-aos="fade-up">
+   <div class="row">
+    <div class="col-md-8 why-p-card px-5 py-4">
+     <h2 class="text-white mb-3">Why Partner with Us – Gurgaon's Google SEO Specialists</h2>
+     <p class="text-white fs-18 mb-2">Gurgaon's digital market is fast-paced, crowded, and intensely competitive. As a specialized Google SEO agency in Gurgaon, we help businesses scale organic visibility through automated content generation, technical precision, and data-driven optimization. Whether you're targeting hyperlocal searches, product categories, or service areas, we ensure your brand ranks naturally on Google at scale.</p>
+    </div>
+    <div class="col-md-4 d-flex">
+      <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/human-robot.png" class="img-fluid w-100 hum-robot mb-0" alt="">
+    </div>
+   </div>
+  </div>
+ </div>
+</section>
+<!-- End : Why Partner -->
+<section class="spb-100">
+  <div class="container">
+    <h2 class="text-white text-center mb-3 aos-init" data-aos="fade-up">Why Google SEO Is Essential<span class="db">for Business Growth</span></h2>
+     <p class="text-white text-center fs-18 mb-5 aos-init" data-aos="fade-up">Scaling visibility demands more than manual SEO. Ranking across Gurgaon's diverse markets requires automation, technical excellence, and strategic content frameworks. Partnering with a Google SEO agency in Gurgaon ensures your business captures traffic, leads, and growth across hundreds of high-intent keywords naturally.</p>
+   <div class="row d-flex align-items-center">
+    <div class="col-md-6">
+     <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/laptop.png" class="img-fluid mb-4 mb-md-0 aos-init" alt="" data-aos="fade-up" data-aos-duration="1600">
+    </div>
+    <div class="col-md-6">
+      <ul class="text-white fs-18">
+        <li class="mb-3 aos-init" data-aos="fade-up" data-aos-duration="1000">Over 75% of Gurgaon consumers use Google to research before making local purchases</li>
+        <li class="mb-3 aos-init" data-aos="fade-up" data-aos-duration="1200">Google SEO in Gurgaon enables businesses to rank naturally for thousands of long-tail and location-specific search queries</li>
+        <li class="mb-3 aos-init" data-aos="fade-up" data-aos-duration="1400">Automated content frameworks generate consistent organic traffic from location-based, product, and service-level Google searches</li>
+        <li class="mb-3 aos-init" data-aos="fade-up" data-aos-duration="1600">Technical SEO at scale ensures fast load times, mobile optimization, and efficient Google crawling across large websites</li>
+        <li class="mb-3 aos-init" data-aos="fade-up" data-aos-duration="1800">Data-driven Google SEO strategies help Gurgaon businesses dominate niche keywords and category-level search intent sustainably</li>
+      </ul>
+    </div>
+   </div>
+  </div>
+</section>
+<!-- Start : Benefits of Working With BrandStory’s GEO Experts  -->
+<section class="sp-100 bg-bnr benefits-work">
+ <div class="container">
+  <div class="row mb-4">
+   <div class="col-md-5">
+    <h2 class="text-white mb-0 aos-init" data-aos="fade-up">Benefits of Working With Our Google SEO Specialists</h2>
+   </div>
+   <div class="col-md-7">
+    <p class="text-white fs-18 mb-0 mt-2 aos-init" data-aos="fade-up">We deliver scalable results through Google SEO execution. Recognized as a leading Google SEO agency in Gurgaon, we combine automation, local expertise, and proven frameworks to help businesses rank naturally for thousands of keywords, attract qualified traffic, and convert at scale.</p>
+   </div>
+  </div>
+  <div class="row">
+   <div class="col-md-5"></div>
+   <div class="col-md-7">
+
+    <div class="row g-3">
+
+     <div class="col-md-6">
+      <div class="feature-card p-3 border-benefits aos-init" data-aos="fade-left">      
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/goe-01.svg" class="img-fluid mb-4" alt="">
+       <h3 class="text-white mb-3">Deep Gurgaon Market Understanding</h3>
+       <p class="text-white fs-18 mb-0">We build SEO systems tailored for Gurgaon's market—optimizing for local intent, neighborhood-level keywords, and dynamic schema to ensure your brand appears organically across every relevant Google search query in the region.</p>
+      </div>
+     </div>
+
+     <div class="col-md-6">
+      <div class="feature-card p-3 border-benefits aos-init" data-aos="fade-right">   
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/goe-02.svg" class="img-fluid mb-4" alt="">
+       <h3 class="text-white mb-3">Proven White-Hat &amp; Ethical SEO</h3>
+       <p class="text-white fs-18 mb-0">From template-based content generation to automated internal linking and technical audits, we cover every layer of Google SEO—ensuring your Gurgaon business ranks consistently and naturally across search engines.</p>
+      </div>
+     </div>
+
+     <div class="col-md-6">
+      <div class="feature-card p-3 border-benefits aos-init" data-aos="fade-left">   
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/goe-03.svg" class="img-fluid mb-4" alt="">
+       <h3 class="text-white mb-3">End-to-End Google SEO Solutions</h3>
+       <p class="text-white fs-18 mb-0">We implement structured data, dynamic schema, and mobile-first frameworks. As a certified Google SEO agency in Gurgaon, we ensure your site is fast, scalable, and conversion-optimized.</p>
+      </div>
+     </div>
+
+     <div class="col-md-6">
+      <div class="feature-card p-3 border-benefits aos-init" data-aos="fade-right">   
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/goe-04.svg" class="img-fluid mb-4" alt="">
+       <h3 class="text-white mb-3">Data-Driven, Measurable Results</h3>
+       <p class="text-white fs-18 mb-0">We track Google rankings, indexation, and organic traffic across all programmatic pages with detailed reporting. Every insight informs the next optimization, helping your SEO performance scale month over month.</p>
+      </div>
+     </div>
+
+    </div>
+
+   </div>
+  </div>
+ </div>
+</section>
+<!-- End: Benefits of Working With BrandStory’s GEO Experts -->
+<!-- Start : Testimonials -->
+<section class="spt-70 spb-100">
+ <div class="container">
+  <h2 class="mb-5 text-center text-white aos-init" data-aos="fade-up">Testimonials</h2>
+  <!-- Swiper -->
+  <div class="swiper bsd-testi-swiper aos-init" data-aos="fade-up">
+   <div class="swiper-wrapper" id="swiper-wrapper-2292d284199d7f1b" aria-live="off" style="transition-duration: 300ms; transform: translate3d(-593px, 0px, 0px);">
+    
+    
+    
+   <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0">
+     <div class="card shadow bg-aa rounded-4 p-4 h-100">
+      <img src="
+							https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/quotes.svg" class="w-11" alt="Client Success">
+      <div class="card-body p-0 mt-3 mb-2">
+       <p class="card-text mb-4 fs-18 text-white">We scaled from 50 to 5,000 indexed pages in four months. The Google SEO approach was seamless, and traffic grew 8x. They delivered results that transformed our pipeline without paid ads.</p>
+       <p class="card-text mb-0 fs-18 text-white fw-700">— Founder, PropTech Startup, Gurgaon</p>
+      </div>
+     </div>
+    </div><div class="swiper-slide" data-swiper-slide-index="1">
+     <div class="card shadow bg-aa rounded-4 p-4 h-100">
+      <img src="
+								https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/quotes.svg" class="w-11" alt="Client Success">
+      <div class="card-body p-0 mt-3 mb-2">
+       <p class="card-text mb-4 fs-18 text-white">They built a Google SEO engine for our service areas. We now rank naturally for hundreds of local keywords and generate consistent leads from organic search across Gurgaon.</p>
+       <p class="card-text mb-0 fs-18 text-white fw-700">— Owner, Home Services Platform, Gurgaon</p>
+      </div>
+     </div>
+    </div><div class="swiper-slide" data-swiper-slide-index="2">
+     <div class="card shadow bg-aa rounded-4 p-4 h-100">
+      <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/web-development-company/quotes.svg" class="w-11" alt="Client Success">
+      <div class="card-body p-0 mt-3 mb-2">
+       <p class="card-text mb-4 fs-18 text-white">Their Google SEO strategy is efficient and transparent. We finally have a partner who understands scale and delivers sustainable growth, not just quick wins.</p>
+       <p class="card-text mb-0 fs-18 text-white fw-700">— Marketing Head, EdTech Company, Gurgaon</p>
+      </div>
+     </div>
+    </div></div>
+  <span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span></div>
+ </div>
+</section>
+<!-- End : Testimonials -->
+
+<!-- Start :  Industries We Help Succeed -->
+<section class="spb-100">
+  <div class="container">
+    <h2 class="text-white text-center mb-3 aos-init" data-aos="fade-up">Industries We Help Succeed</h2>
+     <p class="text-white text-center fs-18 mb-5 aos-init" data-aos="fade-up">We provide Google SEO services in Gurgaon across industries where scalability, local visibility, and consistent lead generation are critical.<span class="db">From startups to enterprises, we deliver Google SEO that drives growth.</span></p>
+   <div class="row g-4">
+    <div class="col-md-4">
+     <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1000">
+       <h4 class="fs-20 text-center text-white mb-0">SaaS &amp; B2B Technology</h4>
+     </div>
+    </div>
+     <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1000">
+       <h4 class="fs-20 text-center text-white mb-0">Healthcare &amp; HealthTech</h4>
+     </div>
+    </div>
+     <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1000">
+       <h4 class="fs-20 text-center text-white mb-0">Education &amp; EdTech</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1500">
+       <h4 class="fs-20 text-center text-white mb-0">BFSI &amp; Fintech</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1500">
+       <h4 class="fs-20 text-center text-white mb-0">Manufacturing &amp; Industrial</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="1500">
+       <h4 class="fs-20 text-center text-white mb-0">Legal &amp; Compliance</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="2000">
+       <h4 class="fs-20 text-center text-white mb-0">Real Estate &amp; Property</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="2000">
+       <h4 class="fs-20 text-center text-white mb-0">E-commerce &amp; D2C</h4>
+     </div>
+    </div>
+    <div class="col-md-4">
+      <div class="feature-card aos-init" data-aos="fade-up" data-aos-duration="2000">
+       <h4 class="fs-20 text-center text-white mb-0">Consulting &amp; Services</h4>
+     </div>
+    </div>
+
+   </div>
+  </div>
+</section>
+<!-- End :  Industries We Help Succeed -->
+ <!-- Start :  Slider AI Tools & Technologies -->
+<section class="explore-sec ai-tools bg-bnr spt-100 spb-70 cus-overflow-x">
+ <div class="container">
+  <div class="heading d-flex flex-column align-items-center px-md-5 px-2 mx-md-5 mx-0 aos-init" data-aos="fade-up">
+   <h2 class="text-center text-white mb-4">SEO Tools &amp; Technologies Powering Our Google SEO Services</h2>
+   <p class="text-white text-center fs-18 mb-5">We optimize for the platforms and tools your customers use daily—Google Search, Google Maps, mobile browsers, and voice assistants. The goal is simple: make your Gurgaon business easy to find organically at scale.</p>
+  </div>
+  <div class="content-slider position-relative mt-5 aos-init" data-aos="fade-up">
+    <div class="main-next-prev cus">
+        <div class="explore-swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-88c10596100477ac36" aria-disabled="true"></div>
+        <div class="explore-swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-88c10596100477ac36" aria-disabled="false"></div>
+    </div>
+   <div class="swiper contentSwiper">
+    <div class="swiper-wrapper" id="swiper-wrapper-88c10596100477ac36">
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-01.svg" class="image-fluid w-25 aos-init" alt="Client Success" data-aos="fade-up">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Google Analytics</h4>
+        <p class="card-text mb-4 fs-18 text-white">Optimize your website for Google's ranking algorithms at scale. We focus on automated keyword targeting, content templates, technical health, and backlink authority to improve organic visibility naturally across thousands of pages.</p>       
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-02.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">SEMrush &amp; Ahrefs</h4>
+        <p class="card-text mb-4 fs-18 text-white">Boost your presence in local search and Google Maps across Gurgaon. We optimize your Google Business Profile, local citations, and geo-targeted organic content to drive nearby customers to your business.</p>        
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-03.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Google Search Console &amp; Keyword Planner</h4>
+        <p class="card-text mb-4 fs-18 text-white">Enhance crawlability, site speed, mobile responsiveness, and indexation to meet Google's standards for Gurgaon searches. We remove technical barriers that block rankings and ensure your site aligns with Core Web Vitals for long-term organic growth and improved visibility.</p>        
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-04.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Screaming Frog</h4>
+        <p class="card-text mb-4 fs-18 text-white">Scale your Gurgaon reach with strategic organic SEO campaigns designed for growth. Our agency builds intelligent content systems that target thousands of search queries, attract qualified visitors, and secure top rankings across competitive search results.</p>        
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-05.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Moz Pro &amp; Majestic</h4>
+        <p class="card-text mb-4 fs-18 text-white">Reach Gurgaon customers with hyper-local SEO strategies tailored to your market. We automate location pages, optimize for neighborhood-level searches, and expand visibility across every district from Cyber City to DLF Phase to Golf Course Road.</p>        
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-06.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Yoast &amp; Rank Math</h4>
+        <p class="card-text mb-4 fs-18 text-white">Strengthen authority with scalable content and strategic link acquisition. Our organic SEO agency in Gurgaon produces template-driven assets that earn natural backlinks and build domain credibility efficiently at scale.</p>       
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-07.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Surfer SEO &amp; Clearscope</h4>
+        <p class="card-text mb-4 fs-18 text-white">Track rankings, organic traffic, and conversions with real-time dashboards. We deliver transparent reporting so you see precisely how organic SEO strategies drive measurable growth for your Gurgaon business.</p>
+       </div>
+      </div>
+     </div>
+     <div class="swiper-slide">
+      <div class="card bg-aa shadow rounded-4 p-3 h-100">
+       <img src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/images/geo-location/ai-08.svg" class="image-fluid w-25" alt="Client Success">
+       <div class="card-body p-0 mt-3 mb-2">
+        <h4 class="card-title fw-bold fs-24 text-white">Schema.org, GTmetrix, PageSpeed Insights</h4>
+        <p class="card-text mb-4 fs-18 text-white">Keyword research, content architecture, database mapping, automated page generation, technical optimization, and scalable outreach tailored for Gurgaon growth.</p>        
+       </div>
+      </div>
+     </div> 
+     
+    </div>
+   <span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span><span class="swiper-notification"></span></div>
+  
+  </div>
+ </div>
+</section><script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Brandstory Solutions Private Limited",
+  "url": "https://brandstory.in/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://brandstory.in/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script><script type="text/javascript" id="" charset="">var ahrefs_analytics_script=document.createElement("script");ahrefs_analytics_script.async=!0;ahrefs_analytics_script.src="https://analytics.ahrefs.com/analytics.js";ahrefs_analytics_script.setAttribute("data-key","3A6+Ddxj20bTch4d3PH2Ug");document.getElementsByTagName("head")[0].appendChild(ahrefs_analytics_script);</script><script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Brandstory Solutions Private Limited",
+      "url" : "https://brandstory.in/"
+    }
+  </script>
+<!--End:  Slider Explore -->
+
+<!-- Start : Faq Section -->
+<section class="sp-100">
+  <div class="container">
+    <h2 class="text-center text-white mb-5 aos-init" data-aos="fade-up">FAQ's</h2>
+    <div class="row g-4 d-flex align-items-center">
+      <div class="col-md-12">
+        <div class="accordion custom-accordion faq-cus-acc" id="faqAccordion">
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading01">
+              <button class="accordion-button show fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">What is Google SEO and how does it work?</button>
+            </h2>
+            <div id="collapse01" class="accordion-collapse collapse show" aria-labelledby="heading01" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Organic SEO delivers sustainable visibility through natural ranking methods, targeting high-intent keywords without ad spend. It helps Gurgaon businesses attract qualified traffic and build lasting search authority cost-effectively.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading02">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">Why choose a Google SEO agency in Gurgaon for my business?</button>
+            </h2>
+            <div id="collapse02" class="accordion-collapse collapse" aria-labelledby="heading02" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Local organic SEO creates neighborhood-specific content for Gurgaon areas, landmarks, and districts. It ensures your business ranks for every relevant local search across the city and surrounding regions.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading03">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">How is Google SEO different from paid search?</button>
+            </h2>
+            <div id="collapse03" class="accordion-collapse collapse" aria-labelledby="heading03" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Organic SEO prioritizes natural, sustainable growth through content quality and technical excellence. Paid strategies offer instant visibility. Organic methods build long-term authority and reduce reliance on advertising budgets.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading04">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">When can I expect to see Google SEO results?</button>
+            </h2>
+            <div id="collapse04" class="accordion-collapse collapse" aria-labelledby="heading04" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Initial traction appears within 3–5 months as content gains traction. Full momentum develops at 6–12 months as rankings strengthen across keywords. Our Gurgaon organic SEO agency prioritizes compounding, sustainable performance.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading05">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">What results can I expect from Google SEO?</button>
+            </h2>
+            <div id="collapse05" class="accordion-collapse collapse" aria-labelledby="heading05" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Expect consistent traffic growth, expanding keyword rankings, and improved conversion quality. Organic SEO also enhances brand credibility and reduces customer acquisition costs as authority accumulates over time.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading06">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">Do you offer Google SEO services in Gurgaon?</button>
+            </h2>
+            <div id="collapse06" class="accordion-collapse collapse" aria-labelledby="heading06" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Absolutely. Organic SEO levels the playing field by rewarding quality over budget. Our Gurgaon services enable small businesses to compete with larger competitors through strategic content and technical optimization.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading07">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">Are there any limitations with Google SEO?</button>
+            </h2>
+            <div id="collapse07" class="accordion-collapse collapse" aria-labelledby="heading07" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Without organic SEO, competitors capture search traffic you're missing. Businesses investing in organic strategies build compounding advantages, dominate more queries, and secure market share you could be claiming today.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading08">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">Why isn't my site ranking on Google Maps?</button>
+            </h2>
+            <div id="collapse08" class="accordion-collapse collapse" aria-labelledby="heading08" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Common issues include weak site structure, thin content, duplicate pages, or slow performance. Our organic SEO agency in Gurgaon audits your foundation and fixes technical issues blocking your ranking potential.</p>
+              </div>
+            </div>
+          </div>
+
+           <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading08">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">What are the costs of Google SEO services?</button>
+            </h2>
+            <div id="collapse09" class="accordion-collapse collapse" aria-labelledby="heading09" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Investment depends on site complexity, competitive intensity, and keyword goals. We offer flexible organic SEO packages for startups, growing businesses, and established Gurgaon enterprises focused on measurable returns.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading10">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">Do B2B companies benefit from Google SEO?</button>
+            </h2>
+            <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Definitely. Organic SEO builds enduring visibility. Paid ads provide immediate results. Combining both ensures continuous presence while your organic foundation grows and scales sustainably over time.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading11">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">How can Google SEO solve low traffic problems?</button>
+            </h2>
+            <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Our Gurgaon agency uses advanced keyword mapping, content optimization, technical audits, and strategic link building. Every organic campaign is tailored to your industry, audience, and competitive environment.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading12">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">Does multimedia content matter for Google SEO?</button>
+            </h2>
+            <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Yes, organic strategies include image optimization, schema markup, and multimedia enhancements. Our services ensure every page element is optimized for superior search performance and user engagement.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading13">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">Why is online reputation important for SEO?</button>
+            </h2>
+            <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Structured data, review integration, and testimonial optimization strengthen trust signals. Our Gurgaon organic SEO agency embeds credibility elements into pages to boost local rankings and user confidence.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading14">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">Do I need to redesign my site for Google SEO?</button>
+            </h2>
+            <div id="collapse14" class="accordion-collapse collapse" aria-labelledby="heading14" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Not always. Organic SEO often improves existing sites through content layers or optimized sections. We evaluate your current setup and implement the most efficient, least-disruptive integration approach.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading15">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">Is Google SEO relevant for B2B &amp; B2C?</button>
+            </h2>
+            <div id="collapse15" class="accordion-collapse collapse" aria-labelledby="heading15" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Yes. Organic strategies adapt to B2B services, product catalogs, or professional offerings. Our Gurgaon agency customizes content and targeting to your audience, whether corporate buyers or individual consumers.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="accordion-item aos-init" data-aos="fade-up">
+            <h2 class="accordion-header" id="heading16">
+              <button class="accordion-button collapsed fs-24 fw-700" type="button" data-bs-toggle="collapse" data-bs-target="#collapse16" aria-expanded="false" aria-controls="collapse16">What kind of content works best for Google SEO?</button>
+            </h2>
+            <div id="collapse16" class="accordion-collapse collapse" aria-labelledby="heading16" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">
+                <p>Intent-driven, authoritative content addressing specific user needs ranks best. We create service pages, guides, and resource hubs that answer queries and provide value at scale.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End: Faq Section -->
+<!-- Start : Let Your Brand Be Part of the AI Conversation -->
+<section class="spb-100">
+  <div class="container">
+    <div class="card bg-aa shadow rounded-4 h-100 sp-70 px-5 aos-init" data-aos="fade-up">
+       <div class="card-body p-0 mt-3 mb-2 text-center">
+         <h2 class="text-center text-white mb-4 aos-init" data-aos="fade-up" data-aos-duration="1000">Let Your Brand Dominate Google Search in Gurgaon</h2>
+         <p class="text-white text-center fs-18 mb-5 aos-init" data-aos="fade-up" data-aos-duration="1500">Organic SEO grows your Gurgaon business sustainably. Capture thousands of qualified<span class="db">Reach more customers, build authority, and grow organically.</span></p>  
+         <div class="smm-uae-btn w-fit">
+          <a href="https://brandstory.in/contact-us/" class="fs-22 cnt-btn fw-700 text-white d-flex align-items-center gap-2 w-100" data-aos-duration="2000">Book Your Free Google SEO Consultation</a>
+         </div>   
+       </div>
+      </div>
+  </div>
+</section>
+<!--End : Let Your Brand Be Part of the AI Conversation -->
+
+<footer class="displayfooter footer spt-50 bg-white pt-5">
+	<div class="container-fluid px-md-5">
+		<div class="row">
+			<div class="col-sm-4 col-12"><a href="" class="nounderline px-0"><img src="https://brandstory.in/digital/assets/images/footer-logo.svg" alt="BrandStory" title="BrandStory"></a>
+				<p class="footer-story fs-14 mt-4">BrandStory is a Digital
+					transformation company that encompasses services from creating your Brand identity through digitally
+					defining your ideas and focusing on getting your products &amp; services to the ever growing digital
+					market thereby increasing your brand’s awareness, sales and desire. We are passionate to craft your
+					brand’s digital journey. Backed by rich industry and real time experience in Bangalore, Dubai,
+					Singapore and other overseas markets.</p>
+			</div>
+			<div class="col-sm-2 mt-4">
+				<h5 class="fw-semibold">Careers</h5>
+				<p class="mb-1"><a href="https://brandstory.in/creative-lead/" class="nounderline text-black fs-14">Creative
+						Lead
+					</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/digital-marketing-manager/" class="nounderline text-black fs-14">Digital Marketing Manager</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/digital-marketer/" class="nounderline text-black fs-14">Digital
+						Marketer Lead</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/lead-copywriter/" class="nounderline text-black fs-14">Lead
+						Copywriter
+					</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/copywriter/" class="nounderline text-black fs-14">Copywriter
+					</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/business-growth-manager/" class="nounderline text-black fs-14">Business Growth Manager </a></p>
+			</div>
+			<div class="col-sm-2 mt-5 pt-2">
+				<p class="mb-1"><a href="https://brandstory.in/group-account-manager/" class="nounderline text-black fs-14">Group
+						Account Manager </a></p>
+				<p class="mb-1"><a href="https://brandstory.in/ui-designer/" class="nounderline text-black fs-14">UI
+						Designer
+					</a>
+				</p>
+				<p class="mb-1"><a href="https://brandstory.in/graphic-designer/" class="nounderline text-black fs-14">Graphic
+						Designer </a></p>
+				<p class="mb-1"><a href="https://brandstory.in/ux-designer/" class="nounderline text-black fs-14">UX
+						Designer
+					</a>
+				</p>
+			</div>
+			<div class="col-sm-2 text-md-center mt-5"><img src="https://brandstory.in/assets/images/google-ads-search-certified-brandstory2023.png" alt="Google Ads Search Certified" title="Google Ads Search Certified" class="footimg img-responsive" style="width: 100px; height: auto;">
+				<p class="pt-2" style="font-size: 12px;"><b>GOOGLE ADS
+						SEARCH CERTIFITED</b></p>
+			</div>
+			<div class="col-sm-2 text-md-center mt-5"><a href="https://www.google.com/partners/agency?id=1975289574" target="_blank"><img src="https://www.gstatic.com/partners/badge/images/2023/PartnerBadgeClickable.svg" style="width: 100px; height: auto;"></a>
+				<p class="pt-2" style="font-size: 12px;"><b>GOOGLE
+						PARTNER AGENCY</b></p>
+			</div>
+		</div>
+		<hr>
+		<p class="pl-4 fs-14"><b>Address</b></p>
+		<div class="row">
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<p class="city-underline fs-14">Bangalore</p>
+					<p class="mt-4 fs-14 mb-1">No 5, 3rd Floor,1st Cross, Krishna Reddy Colony,</p>
+					<p class="fs-14">Domlur Layout, Bangalore, Karnataka-560071</p>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+91 9008504821" class="text-black fs-14 ms-2">+91
+									9008504821</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="text-black fs-14 ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<p class="city-underline fs-14">Chennai</p>
+					<p class="mt-4 fs-14 mb-1">B15, 2nd Main Road,Kasturibai Nagar, Adyar,</p>
+					<p class="fs-14">Chennai-600020</p>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+91 9008504821" class="fs-14 text-black ms-2">+91
+									9008504821</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="fs-14 text-black ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<div>
+						<p class="city-underline fs-14">Hyderabad</p>
+						<p class="mb-1 fs-14">WeWork Krishe Emerald, HD-395, Hitec city,</p>
+						<p class="mb-1 fs-14">Kondapur Main Road, Laxmi Cyber City, </p>
+						<p class="fs-14"> Whitefields, Kondapur, Telangana-500081</p>
+					</div>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+91 9008504821" class="fs-14 text-black ms-2">+91
+									9008504821</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="fs-14 text-black ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<p class="city-underline fs-14">Mumbai</p>
+					<p class="fs-14 mb-1">Unit No.CG/13, Ground Floor, Carnival House, </p>
+					<p class="fs-14 mb-1">Off. AK Vaidya Marg, Malad East, <br>
+						Mumbai-400097</p>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+91 9008504821" class="text-black fs-14 ms-2">+91
+									9008504821</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="text-black fs-14 ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<p class="city-underline fs-14">USA</p>
+					<p class="mt-4 fs-14 mb-1">39109 Guardino Dr, Fremont,</p>
+					<p class="fs-14">CA 94538</p>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+1 7145990207" class="text-black fs-14 ms-2">+1
+									7145990207</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="text-black fs-14 ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 mb-4">
+				<div class="py-4 px-3 rounded fot">
+					<p class="city-underline fs-14">Australia</p>
+					<p class="mt-4 fs-14 mb-1">1/78, Forrester Street, Essendon,</p>
+					<p class="fs-14">Melbourne, Victoria-3040.</p>
+					<div class="row mt-4">
+						<div class="col-lg-6">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Vector.png" class="pr-2"><a href="tel:+61 431685017" class="text-black fs-14 ms-2">+61
+									431685017</a></p>
+						</div>
+						<div class="col-lg-6 px-lg-0">
+							<p><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/fi_481659.png" class="pr-2"><a href="mailto:info@brandstory.in" class="text-black fs-14 ms-2">info@brandstory.in</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr>
+		<p class="pl-4 fs-14"><b>Related Links</b></p>
+		<div class="row pb-4">
+			<div class="col-sm-4">
+				<p class="mb-1"><a href="https://brandstory.in/pr-agency-in-bangalore/" class="text-black fs-14">PR
+						Agency in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/seo-company-bangalore/" class="text-black fs-14">SEO
+						Company in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/b2b-marketing-companies-in-bangalore/" class="text-black fs-14">B2B
+						Marketing Company in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/performance-marketing-services-bangalore/" class="text-black fs-14">Performance Marketing
+						Company in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/link-building/" class="text-black fs-14">SEO
+						Link Building Services in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/email-marketing-services-in-bangalore/" class="text-black fs-14">Email
+						Marketing Services in
+						Bangalore</a></p>
+			</div>
+			<div class="col-sm-4">
+				<p class="mb-1"><a href="https://brandstory.in/services/social-media-marketing-agency-bangalore/" class="text-black fs-14">Social Media
+						Marketing Company in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/pay-per-click-ppc-services-in-bangalore/" class="text-black fs-14">PPC
+						Company in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/creative-agency/" class="text-black fs-14">Creative
+						Advertising Agency
+						in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/ui-design-company-bangalore/" class="text-black fs-14">UI
+						/ UX Design
+						Company in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/content-marketing/" class="text-black fs-14">Content
+						Marketing
+						Services in Bangalore</a></p>
+			</div>
+			<div class="col-sm-4 rounded">
+				<p class="mb-1"><a href="https://brandstory.in/website-development-company-in-bangalore/" class="text-black fs-14">Website Development
+						Company in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/content-writing-agency-in-bangalore/" class="text-black fs-14">Content
+						Writing Company in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/app-store-optimization-services/" class="text-black fs-14">App Store
+						Optimization Company in
+						Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/real-estate-marketing-companies-in-bangalore/" class="text-black fs-14">Real Estate Marketing
+						Companies in Bangalore</a></p>
+				<p class="mb-1"><a href="https://brandstory.in/logo-designers-in-bangalore/" class="text-black fs-14">Logo Design
+						Company in Bangalore</a>
+				</p>
+			</div>
+		</div>
+		<hr>
+		<div class="float-left"></div>
+		<div class="copyright">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-lg-3 p-2">
+						<div class="d-md-flex pl-md-0 pl-4">
+							<div class="me-md-3"><span>Follow Us</span></div>
+							<div class="pt-2 pt-md-0"><a href="https://www.linkedin.com/company/brandstory-in/"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/linkedin (6) 1.png" class="mr-md-1 ml-md-3"></a><a href="https://www.instagram.com/brandstorydigital/"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/instagram (3).png" class="mx-1"></a><a href="https://www.facebook.com/brandstory.in/"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/facebook (3).png" class="mx-1"></a><a href="https://twitter.com/BrandStory_in/"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/twitter (3).png" class="mx-1"></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-9 d-md-flex justify-content-md-end">
+						<div class="px-lg-1 pt-2">
+							<p class="fs-14">Copyright © 2025, Brandstory Solutions Pvt Ltd. All Rights
+								Reserved.</p>
+						</div>
+						<div class="px-md-1 pt-2">
+							<p class="fs-14">Terms of Use |</p>
+						</div>
+						<div class="px-md-1 pt-2">
+							<p class="fs-14">Privacy Policy</p>
+						</div>
+						<div id="DMCA-badge" class="px-md-1 pt-2 pb-3 float-left float-md-right" style="text-align: center; float: right;">
+							<div class="dm-1 dm-1-b" style="left: 0px; background-color: rgb(230, 48, 45); width: 80px; float: left; color: white;">
+								<a href="https://www.dmca.com/" target="_blank" rel="noopener" title="DMCA" style="color: rgb(255, 255, 255);">DMCA</a>
+							</div>
+							<div class="dm-2 dm-2-b" style="height: fit-content; background-color: rgb(232, 84, 43); float: left; width: 120px;">
+								<a href="https://www.dmca.com/Protection/Status.aspx?ID=a04546c1-36a4-4003-b670-0200dad021fd" target="_blank" rel="noopener" title="DMCA" style="color: rgb(255, 255, 255);">PROTECTED</a>
+							</div>
+						</div>
+						<div class="px-md-1 pt-md-0 pt-2"><img src="https://brandstory.in/assets/images/wp-content/uploads/2024/Group 732.png"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div><br>
+</footer>
+
+
+<!-- <div class="d-md-block d-none">
+<a href="https://wa.me/+918838353716?text=Hi%20BrandStory%20team,%20I’m%20looking%20for%20a%20website%20that%20suits%20my%20business%20needs.%20Can%20we%20discuss%20my%20requirements?" class="whatsapp-icon" target="_blank">
+            <img src="https://brandstory.in/website-development-company-in-bangalore/old/assets/images/web-development-company/mbl-whatsapp.svg" alt="WhatsApp">
+        </a>
+</div> -->
+
+<div class="mblbtns d-md-none d-block">
+	<ul class="mb-0 d-flex justify-content-between">
+		<li><a href="tel:+91 9008504821"><img src="https://brandstory.in/website-development-company-in-bangalore/old/assets/images/web-development-company/mbl-phone.svg">Call Us</a></li>
+		<li class="text-white">|</li>
+		<li><a href="https://brandstory.in/contact-us/" target="_blank"><img src="https://brandstory.in/website-development-company-in-bangalore/old/assets/images/web-development-company/mbl-whatsapp.svg">Enquire</a></li>
+	</ul>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+<script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/swiper-bundle.min.js"></script>
+<script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/jquery.min.js"></script>
+<script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/site.js"></script>
+<script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/aos.js"></script>
+<script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/menu.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Brandstory Solutions Private Limited",
+  "url": "https://brandstory.in/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://brandstory.in/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script><script type="text/javascript" id="" charset="">var ahrefs_analytics_script=document.createElement("script");ahrefs_analytics_script.async=!0;ahrefs_analytics_script.src="https://analytics.ahrefs.com/analytics.js";ahrefs_analytics_script.setAttribute("data-key","3A6+Ddxj20bTch4d3PH2Ug");document.getElementsByTagName("head")[0].appendChild(ahrefs_analytics_script);</script><script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Brandstory Solutions Private Limited",
+      "url" : "https://brandstory.in/"
+    }
+  </script><script src="https://brandstory.in/generative-engine-optimization-company-in-bangalore/assets/js/counter.js"></script>
+
+<!-- Initialize AOS -->
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Brandstory Solutions Private Limited",
+  "url": "https://brandstory.in/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://brandstory.in/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script><script type="text/javascript" id="" charset="">var ahrefs_analytics_script=document.createElement("script");ahrefs_analytics_script.async=!0;ahrefs_analytics_script.src="https://analytics.ahrefs.com/analytics.js";ahrefs_analytics_script.setAttribute("data-key","3A6+Ddxj20bTch4d3PH2Ug");document.getElementsByTagName("head")[0].appendChild(ahrefs_analytics_script);</script><script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Brandstory Solutions Private Limited",
+      "url" : "https://brandstory.in/"
+    }
+  </script></body></html>
